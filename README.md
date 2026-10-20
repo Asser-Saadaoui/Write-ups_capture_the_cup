@@ -10,7 +10,7 @@ The challenges were designed to introduce participants to practical digital fore
 |---|---|---|---|
 | Supernova | Forensics / Steganography / Cryptography | Beginner-friendly | JPEG metadata, appended archives, AES-256-CBC, SHA-256 |
 | Vintage | Forensics / Steganography / Reverse Engineering | Beginner-friendly | Appended ZIP, PE analysis, static reverse engineering, XOR |
-| Welcome to CC | Forensics | Beginner | String extraction, plain-text flag discovery |
+| Penguin | Forensics | Beginner | String extraction, plain-text flag discovery |
 | Haramball | Forensics | Beginner | JPEG comments, metadata analysis, duplicate COM segments |
 | Haramball 2 | Forensics | Beginner | Decoy flags, duplicate metadata, JPEG structure |
 | Feel It | Forensics / Audio | Beginner-friendly | WAV sample analysis, signal encoding, hexadecimal decoding |
